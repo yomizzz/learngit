@@ -4,4 +4,5 @@ Git has a mutable index called stage.
 test 2
 Git tracks changes of files.
 creating a new branch is quick and simple.
+the strategy of managing branch.
 
